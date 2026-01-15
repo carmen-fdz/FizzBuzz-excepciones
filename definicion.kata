@@ -1,0 +1,23 @@
+def test_divisible_por_3(numero):
+    pass #tiene que devolver fizz
+
+def test_divisible_por_5(numero):
+    pass #tiene que devolver buzz
+
+def test_divisible_por_3_y_5(numero):
+    pass #tiene que devolver fizzbuzz
+
+def test_no_divisible_por_3_ni_5(numero):
+    pass #tiene que devolver el mismo numero
+
+def test_valor_no_numerico(valor):
+    pass #tiene que lanzar una excepcion
+
+def test_divisible_por_0(numero):
+    pass #tiene q lanzar una excepcion
+
+def fizzbuzz(numero):
+pass # Implementa la funcion fizzbuzz segun las reglas especificadas
+ 
+ if __name__ == "__main__":
+    g
